@@ -8,15 +8,15 @@ let transporter = nodemailer.createTransport({
   port: 465, // SMTP 端口
   secureConnection: true, // 使用了 SSL
   auth: {
-    user: 'growvv@qq.com',
+    user: 'xx@xx',
     // 这里密码不是qq密码，是你设置的smtp授权码，去qq邮箱后台开通、查看
-    pass: 'nveatabzjssudbfc',
+    pass: 'xxx',
   }
 });
 
 let mailOptions = {
-  from: '"Rogn" <growvv@qq.com>', // sender address
-  to: '1009526672@qq.com', // list of receivers
+  from: '"Rogn" <xx@qq.com>', // sender address
+  to: 'xx@qq.com', // list of receivers
 subject: '『康康』通知', // Subject line
   // 发送text或者html格式
   // text: 'Hello world?', // plain text body
