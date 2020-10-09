@@ -6,7 +6,7 @@
 
 ## 效果
 
-[实物图](![](https://cdn.jsdelivr.net/gh/growvv/image-bed/images/20201009151224.png))
+![实物图](https://cdn.jsdelivr.net/gh/growvv/image-bed/images/20201009151224.png)
 
 ## 奖项
 
