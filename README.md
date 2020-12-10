@@ -12,7 +12,7 @@ To help contain the spread of COVID-19, we developed an intelligent dust bin equ
 2. 口罩智能分类
 3. 分类后口罩智能压缩等功能
 
-This work uses RaspberryPi as the main controller, combined with computer vision technology and sensor technology to realize the control of the camera, steering gear, and ultrasonic module. We can do: 
+This work uses RaspberryPi as the  controller, combined with computer vision technology and sensor technology to realize the control of the camera, steering gear, and ultrasonic module. We can do: 
 1. Induction automatic lid opening
 2. Intelligent classification of masks
 3. Intelligent compression of masks and other functions after classification
