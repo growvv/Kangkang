@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1UUZtaEIHYDdUM6H5RNSFgopZ6-REBgmu/view?usp=shari
 
 ## 效果 Pictures
 
+Here is a demo done by paper box in order to be environmentallly friendly.
 ![实物图](https://cdn.jsdelivr.net/gh/growvv/image-bed/images/20201009151224.png)
 
 ## 奖项 Awards
