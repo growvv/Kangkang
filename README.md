@@ -18,7 +18,8 @@ This work uses RaspberryPi as the  controller, combined with computer vision tec
 3. Intelligent compression of masks and other functions after classification
 
 ## 使用展示 Videos
-https://drive.google.com/file/d/1UUZtaEIHYDdUM6H5RNSFgopZ6-REBgmu/view?usp=sharing
+
+演示视频Demo: https://drive.google.com/file/d/1UUZtaEIHYDdUM6H5RNSFgopZ6-REBgmu/view?usp=sharing
 
 ## 效果 Pictures
 
